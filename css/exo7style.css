@@ -1,0 +1,32 @@
+/*Feuille de style pour exo7*/
+
+#form {
+    margin-top: 2%;
+}
+
+
+
+h2 {
+    text-align: center;
+
+}
+
+.te {
+
+    text-align: center;
+}
+
+
+#texte {
+    text-align: center;
+    font-size: 1.1em;
+
+}
+
+
+#message {
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 5%;
+    font-size: 2em;
+}
